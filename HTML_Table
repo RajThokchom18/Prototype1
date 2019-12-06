@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <tile></title>
+</head>
+  <body>
+    <table>
+    <tr>
+      <th>Emp_ID</th>
+      <th>Emp_Name</th>
+      <th>Emp_Address</th>
+      <th>Basic</th>
+      <th><abbr title="Travel Allowance">TA</abbr></th>
+      <th><abbr title="House Rent Allowance">HRA</abbr></th>
+      <th><abbr title="Medical Allowance">MA</abbr></th>
+      <th>Gross_Sal</th>
+      <th><abbr title="Provident Fund">PF</abbr></th>
+      <th>Net_Sal</th>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    </table>
+  </body>
+</html>
